@@ -7,7 +7,6 @@
 */
 
 import std.stdio;
-import std.conv;
 
 class Matrix
 {
